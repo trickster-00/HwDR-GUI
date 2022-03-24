@@ -9,7 +9,7 @@ What to do when you are at home due to this pandemic situation? I started to lea
 
 ## Demo
 
-
+![](https://github.com/trickster-00/Handwritten-digit-recognizer-app/blob/7480b176539a7cc4ae89125f3e6fc2b3201a77e7/img/05BDDE30-162B-4E5C-AF16-D96817E9DCD7.JPEG)
 
 ## Installation
 
