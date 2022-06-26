@@ -1,4 +1,4 @@
-# Handwritten-digit-recognizer-app
+# Handwritten-Digit-Recognizer-GUI
 
 In this project we create a application that can intake a handwritten digit and recognize it using Convolutional Nural Networks trained model. We use mnist dataset present in the keras library to provide data to our model for training.
 
